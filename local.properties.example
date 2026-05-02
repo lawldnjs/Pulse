@@ -1,0 +1,5 @@
+# Android SDK 경로를 지정하세요 (예시)
+# Linux:   sdk.dir=/home/<user>/Android/Sdk
+# Windows: sdk.dir=C:\\Users\\<user>\\AppData\\Local\\Android\\Sdk
+# macOS:   sdk.dir=/Users/<user>/Library/Android/sdk
+sdk.dir=/path/to/Android/Sdk
